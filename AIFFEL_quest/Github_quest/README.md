@@ -18,7 +18,7 @@
 
 자비스는 어떻게 개발됐는지, 무엇을 할 수 있는지, 그리고 AI에 대해 **저커버그**는  
 어떤 생각을 하고 있는지 살펴 보세요. 원문은 해당 링크  
-(https://www.facebook.com/notes/mark-zuckerberg/building- 
+(https://www.facebook.com/notes/mark-zuckerberg/building-  
 jarvis/10154361492931634)에서 확인하실 수 있습니다.
 
 **‘자비스(Jarvis)’ 구축하기**
