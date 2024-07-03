@@ -92,6 +92,7 @@ class Pomodoro {
           timer.cancel();
           print('$rest_minutes_1분 휴식 시간이 종료되었습니다.');
           timer1();
+          print("$count회차 작업을 시작하겠습니다. ");
         } else {
           minutes -= 1;
           print('$minutes:$seconds');
@@ -118,6 +119,7 @@ class Pomodoro {
           timer.cancel();
           print('$rest_minutes_2분 휴식 시간이 종료되었습니다.');
           timer1();
+          print("$count회차 작업을 시작하겠습니다. ");
         } else {
           minutes -= 1;
           print('$minutes:$seconds');
@@ -137,7 +139,7 @@ class Pomodoro {
 
 void main() {
   
-  Pomodoro pomodoro = Pomodoro(1, 1, 1);
+  Pomodoro pomodoro = Pomodoro(1, 1, 2);
   pomodoro.start();
 
 
