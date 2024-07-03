@@ -45,8 +45,6 @@ class Pomodoro {
   // 타이머 메소드 (매개변수 : 워크/휴식1/휴식2)
   void timer1() {
 
-
-    count += 1;
     minutes = work_minutes - 1;
 
 
@@ -61,9 +59,11 @@ class Pomodoro {
           print('작업 시간이 종료되었습니다.');
           if (count % 4 == 0){
             print("$count회차 휴식을 시작하겠습니다. ");
+            count += 1;
             timer3();
           }else{
             print("$count회차 휴식을 시작하겠습니다. ");
+            count += 1;
             timer2();
           }         
         } else {
