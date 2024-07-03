@@ -37,7 +37,7 @@ class Pomodoro {
     }
     */
     print("$count회차 작업을 시작하겠습니다. ");
-
+    timer1();
 
     // stop();
   }
@@ -79,7 +79,7 @@ class Pomodoro {
   
   void timer2(){
     
-    minutes = rest_minutes_1;
+    minutes = rest_minutes_1 - 1;
 
 
     // 1초 간격으로 반복 실행되는 타이머 생성
@@ -128,12 +128,7 @@ class Pomodoro {
       }
     });
   }
-
-  // 초를 분:초로 표시하는 메소드
-  void printTimer() {
-
-  }
-
+  
   // 뽀모도로 타이머 종료 메소드
   void stop() {
     print("Pomodoro 타이머를 종료하겠습니다.");
@@ -141,7 +136,8 @@ class Pomodoro {
 }
 
 void main() {
-  Pomodoro pomodoro = Pomodoro(25, 5, 15);
+  
+  Pomodoro pomodoro = Pomodoro(1, 1, 1);
   pomodoro.start();
 
 
