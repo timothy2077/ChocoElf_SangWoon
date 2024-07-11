@@ -1,4 +1,4 @@
-'''
+```
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
@@ -514,5 +514,11 @@ class SwitchExampleState extends State<SwitchExample> {
     );
   }
 }
-'''
+```
+구조
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/24378d16-e542-4d60-8fff-f0686d3b343f/Untitled.png)
+와이어 프레임
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/c76839a6-572e-40bb-8d4f-cb49a6b2e858/Untitled.png)
+프로토 타입
+![gifmaker_me.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/a2e37690-13cf-4f40-818c-fc819ddc2ee6/gifmaker_me.gif)
 
