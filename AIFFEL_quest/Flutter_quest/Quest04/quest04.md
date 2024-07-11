@@ -524,5 +524,10 @@ class SwitchExampleState extends State<SwitchExample> {
 프로토 타입
 ![gifmaker_me](https://github.com/chocoelf/aiffel_quest/assets/168162744/ee42e6ae-c511-4344-9be4-5fc82814f32a)
 
+영상
+
+
+https://github.com/chocoelf/aiffel_quest/assets/168162744/3a035c3b-c4cf-42ef-b8a1-7f73c854891b
+
 
 
