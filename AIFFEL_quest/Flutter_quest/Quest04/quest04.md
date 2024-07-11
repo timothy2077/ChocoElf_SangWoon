@@ -516,9 +516,13 @@ class SwitchExampleState extends State<SwitchExample> {
 }
 ```
 구조
+![image](https://github.com/chocoelf/aiffel_quest/assets/168162744/1c25e39f-ee7c-4e41-9e31-ca30545dc182)
 
 와이어 프레임
+![image](https://github.com/chocoelf/aiffel_quest/assets/168162744/79c67ecd-4287-46a5-91e7-3e066237e426)
 
 프로토 타입
+![gifmaker_me](https://github.com/chocoelf/aiffel_quest/assets/168162744/ee42e6ae-c511-4344-9be4-5fc82814f32a)
+
 
 
