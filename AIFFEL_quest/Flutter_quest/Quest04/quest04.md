@@ -530,4 +530,7 @@ class SwitchExampleState extends State<SwitchExample> {
 https://github.com/chocoelf/aiffel_quest/assets/168162744/3a035c3b-c4cf-42ef-b8a1-7f73c854891b
 
 
+회고
+하아... 정말 힘듭니다. 일단 눈으로만 보던 앱을 구현하려니까 이렇게 힘들다는 것을 느꼇고 영상까지 찍을려니 몸이 두개였으면  
+좋겠다는 생각을 했습니다. 하아... 감사합니다.
 
