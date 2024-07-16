@@ -123,3 +123,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+'''회고 
+막판에 완성해서 정신이 없습니다. 개념으로만 알고 있던걸 그래도 실제로 해봐서 많은 도움이 됬습니다.'''
